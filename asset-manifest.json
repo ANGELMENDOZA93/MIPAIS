@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MIPAIS/static/css/main.1da35ee0.css",
+    "main.js": "/MIPAIS/static/js/main.aaa2b22e.js",
+    "index.html": "/MIPAIS/index.html",
+    "main.1da35ee0.css.map": "/MIPAIS/static/css/main.1da35ee0.css.map",
+    "main.aaa2b22e.js.map": "/MIPAIS/static/js/main.aaa2b22e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da35ee0.css",
+    "static/js/main.aaa2b22e.js"
+  ]
+}
